@@ -1,5 +1,5 @@
 export class CardEntity {
-  id: number;
+  id: string;
   title: string;
   description: string;
 }
